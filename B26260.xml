@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Love in a barn. Or, Right country courtship.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26260</idno><idno type="EEBO-CITATION">99888218</idno>
+  <idno type="VID">201001</idno>
+  <idno type="EEBO-PROQUEST">2248539979</idno>
+  
+            <idno type="STC">Wing L3206</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[32]</idno>
+            <idno type="STC">ESTC R229183</idno>
+            <idno type="PROQUEST">ocm99888218</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888218e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201001)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Love in a barn. Or, Right country courtship.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill. (woodcut).  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (CD-ROM, 1996).</note>
+                  <note>Four columns of text, initials.</note>
+                  <note>First line: "Come, all ye brisk country girls."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="topical_term">Courtship --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:201001:1"/>
+            <head>LOVE in a BARN.</head>
+            <head type="sub">
+               <hi>Or, Right</hi> Country Courtship.</head>
+            <p>
+               <figure>
+                  <figDesc>woman milking a cow</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>COME all ye brisk country girls,</l>
+               <l>And London lasses too;</l>
+               <l>A merry ditty I have to tell,</l>
+               <l>Which certainly is true.</l>
+               <l>In Reygate liv'd a buxome las<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Both beautiful and fair,</l>
+               <l>Her beauty was her portion,</l>
+               <l>As hereafter you shall here.</l>
+               <l>Her father was a farmer,</l>
+               <l>Who did at Ryegate dwell,</l>
+               <l>Just by liv'd a noble Lord,</l>
+               <l>Whose name I must not tell:</l>
+               <l>Whose country house at Ryegate was,</l>
+               <l>In the sweet pleasant air,</l>
+               <l>And this Lord he fell in love</l>
+               <l>With the farmer's daughter fair.</l>
+               <l>He ofentimes beheld her</l>
+               <l>A- milking in the moon,</l>
+               <l>And he must go to drink the m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k</l>
+               <l>From the cow while it was warm.</l>
+               <l>The draught of love he drank so sweet</l>
+               <l>By gazing on her charms,</l>
+               <l>That the sweet creature he would oft</l>
+               <l>W sh for in his arms,</l>
+               <l>He said, I've slighted ladies,</l>
+               <l>Of honour, birth, and fame:</l>
+               <l>Now Cupid has betray'd me</l>
+               <l>To an innocent country dame.</l>
+               <l>I must reveal my passion.</l>
+               <l>Or for her lose my life;</l>
+               <l>If money her virtue will overcome.</l>
+               <l>I soon will end the strise.</l>
+               <l>Next morning he goes to her,</l>
+               <l>As she a-milking were,</l>
+               <l>And he began the story</l>
+               <l>To the farmer's daughter fair.</l>
+               <l>Thou fairest of all creatures,</l>
+               <l>My heart is in love with thee;</l>
+               <l>If thou can'st love a London Lord,</l>
+               <l>A Lady thou shalt be.</l>
+               <l>Sir, said she, What do you mean,</l>
+               <l>More fit I am, I vow,</l>
+               <l>To mind my father's dairy,</l>
+               <l>And feed the pigs and sow.</l>
+               <l>I cannot dress up in the mode,</l>
+               <l>As London lasses wear.</l>
+               <l>Said he, but I will keep a maid,</l>
+               <l>To wait on thee, my dear.</l>
+               <l>A maid! said the country lass,</l>
+               <l>I can but laugh at that:</l>
+               <l>Must I ride to the church in my short cloak,</l>
+               <l>With a feather in my cap?</l>
+               <l>No, no, my dear, that is the dress</l>
+               <l>My jewel thou shalt were,</l>
+               <l>When thou along with me dost go</l>
+               <l>To take the rural air.</l>
+               <l>Then, Gaffer, said the country girl,</l>
+               <l>Yet something I've to say,</l>
+               <l>Among the ladies I cannot dance,</l>
+               <l>Except it be the ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>But thou can'st dance in bed, my dear,</l>
+               <l>And that's the prettiest sport.</l>
+               <l>Ay, never fear, I'll warrent thee,</l>
+               <l>As well as the best at court.</l>
+               <l>This was Right COUNTRY COURTSHIP,</l>
+               <l>And made the Lord to smile,</l>
+               <l>But his whole intention was</l>
+               <l>This maiden to beguile.</l>
+               <l>But the country girls are not such fools,</l>
+               <l>For to be taken in,</l>
+               <l>So now come here the country bite,</l>
+               <l>Which she did put on him.</l>
+               <l>He made her many presents</l>
+               <l>Of watches, jewels, rings,</l>
+               <l>The girl she was well pleas'd</l>
+               <l>At sight of such fine things.</l>
+               <l>The cow-house was the chamber</l>
+               <l>In which they us'd to court:</l>
+               <l>At length be must bef ooling</l>
+               <pb facs="tcp:201001:2"/>
+               <pb facs="tcp:201001:2"/>
+               <l>Under her petticoats.</l>
+               <l>She said, is this the way</l>
+               <l>That courtiers come to wooe?</l>
+               <l>There's no harm, says he, my dear.</l>
+               <l>We serve the ladies so.</l>
+               <l>I do not like the fashion,</l>
+               <l>The country girl reply'd.</l>
+               <l>I will not be a lady</l>
+               <l>Until I am a bride.</l>
+               <l>She finding he had store of gold,</l>
+               <l>Says she, I plainly see,</l>
+               <l>That he has no intention</l>
+               <l>That I his bride shall be;</l>
+               <l>He shall not have my maidenhead,</l>
+               <l>I solemnly do swea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>But I'll bite him of a portion,</l>
+               <l>Then wed with Ralph my dear.</l>
+               <l>Next morning came the Lord,</l>
+               <l>As he was us'd to do,</l>
+               <l>With a pretence to drink the milk</l>
+               <l>Warm sir from the cow.</l>
+               <l>Then with the charming milk-maid</l>
+               <l>Still fooling he would be,</l>
+               <l>Says he, five hundred pounds I'll give</l>
+               <l>One night to lie with thee;</l>
+               <l>Then afterwards I will thee wed,</l>
+               <l>So no barm can there be.</l>
+               <l>Well, If I lose my maidenhead,</l>
+               <l>It shall be in my father's barn:</l>
+               <l>So now the money put me down,</l>
+               <l>And treat me well with wine,</l>
+               <l>Then to-night at twelve o'clock,</l>
+               <l>It is the only time.</l>
+               <l>He was delighted for to catch</l>
+               <l>The maiden in the mind,</l>
+               <l>Then unto the barn he took</l>
+               <l>A bottle of rhenish wine.</l>
+               <l>A gang of Gypsies us'd to lie,</l>
+               <l>Sir in the barn all night,</l>
+               <l>Then here this damsel soon she play'd</l>
+               <l>A country crafty bite.</l>
+               <l>She told unto the Gypsies</l>
+               <l>How she the scheme had laid,</l>
+               <l>So bid them to conceal themselves</l>
+               <l>Among the corn and hay.</l>
+               <l>She said, I'll give you notice</l>
+               <l>In every degree;</l>
+               <l>And if you bite this am'rous blade.</l>
+               <l>Rewarded you shall b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>'Bout twelve o'clock to her he came</l>
+               <l>Just as the apointment were,</l>
+               <l>When no light but what the moon</l>
+               <l>Granted unto them there.</l>
+               <l>Thus they sit down among the straw</l>
+               <l>His arms round her he twines;</l>
+               <l>Full merrily they toss about</l>
+               <l>The bottle of rhenish wine.</l>
+               <l>The girl oft kiss'd the bottle,</l>
+               <l>But never touch'd the wine,</l>
+               <l>Until his Lordship's eyes began</l>
+               <l>To twinkle very fine.</l>
+               <l>He laid him down amidst the straw,</l>
+               <l>And fast asleep he falls;</l>
+               <l>The fa mer's daughter then arose,</l>
+               <l>And the Gypsies soon did call:</l>
+               <l>Says she, Go strip you all buff,</l>
+               <l>Then down by him golie,</l>
+               <l>And the little gypsy at his back,</l>
+               <l>I beg that you would tie.</l>
+               <l>Both his hands I have made fast</l>
+               <l>Not easy to be undone,</l>
+               <l>Then as he rises in a fright,</l>
+               <l>Like a devil he will run.</l>
+               <l>Five pound she to the gypsies gave,</l>
+               <l>Then home she strait did steer.</l>
+               <l>The Lord began to awake, sir,</l>
+               <l>In the morning fair and clear.</l>
+               <l>He took a roll upon his back,</l>
+               <l>The gypsy began to squeak,</l>
+               <l>His hands being ty'd he then began</l>
+               <l>To scramble on his feet.</l>
+               <l>The gypsies all were standing up,</l>
+               <l>Their coal-black hair hung down,</l>
+               <l>He took them all for devils in bust,</l>
+               <l>And run into the town,</l>
+               <l>With the bastard sq ua<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g at his back.</l>
+               <l>His wig was tag'd with straw,</l>
+               <l>Sure such a sight as this</l>
+               <l>No mortal ever saw.</l>
+               <l>The servants were amazed</l>
+               <l>When they did let him in,</l>
+               <l>They took the gppsy from his back,</l>
+               <l>And soon relieved him.</l>
+               <l>So the child he is like to keep,</l>
+               <l>For the gypsies they are gone▪;</l>
+               <l>Thus now he is the talk of all</l>
+               <l>The women in the town</l>
+               <l>But yet he is w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll pleased</l>
+               <l>With the pranks that she has play'd,</l>
+               <l>He said, I am resolv'd to wed</l>
+               <l>This virtuous country maid.</l>
+               <l>For virtue is her portion,</l>
+               <l>Of that she has her share▪</l>
+               <l>O now this Lord has married</l>
+               <l>This furmer's daughte<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> f<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
